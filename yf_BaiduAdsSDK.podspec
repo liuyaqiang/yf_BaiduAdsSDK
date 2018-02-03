@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "yf_BaiduAdsSDK"
-s.version          = "1.0.5"
+s.version          = "1.0.7.1"
 s.summary          = "yf_BaiduAdsSDK"
 
 s.description      = <<-DESC
