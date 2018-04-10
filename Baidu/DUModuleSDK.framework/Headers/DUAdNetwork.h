@@ -26,5 +26,10 @@ DU_CLASS_EXPORT DU_SUBCLASSING_RESTRICTED
 +(void)initWithConfigDic:(NSDictionary*)aDic
              withLicense:(NSString*)aStr;
 
+/**
+ @aLevel DUAdLogLevel
+ */
++(void)setLogLevel:(DUAdLogLevel)aLevel;
+
 @end
 
